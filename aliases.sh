@@ -80,3 +80,5 @@ alias hi="history -n" # import history
 alias i="sudo apt-get install -y"
 alias locate="sudo updatedb; locate"
 alias explorer="nautilus"
+
+alias sshnathan='ssh -A ubuntu@nh.coates.io'

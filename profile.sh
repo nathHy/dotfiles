@@ -11,5 +11,4 @@ function mount_sshfs() {
 }
 
 mount_sshfs ubuntu@nh.coates.io:/home/ubuntu/dev/ ~/mount/cloud
-mount_sshfs ubuntu@nh.coates.io:/home/ubuntu/dev/sb-toolkit ~/mount/sb-toolkit
 mount_sshfs ubuntu@nh.coates.io:/home/ubuntu/non-dev/ ~/mount/non-dev

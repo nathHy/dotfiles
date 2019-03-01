@@ -16,7 +16,7 @@ then
 fi
 
 source ~/dotfiles/functions.sh
-install_tmux_2
+# install_tmux_2
 
 # Install desktop packages
 if xset q &>/dev/null
